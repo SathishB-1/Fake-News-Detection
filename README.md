@@ -75,3 +75,4 @@ To run the project locally, follow these steps:
 ## User Interface
 
 ![image alt](https://github.com/SathishB-1/Fake-News-Detection/blob/cf9f4c61529f58c41343bd9a79c3a943977dc611/UI.....png)
+
