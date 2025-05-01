@@ -65,17 +65,6 @@ To run the project locally, follow these steps:
 
 3. Enter a news article in the input field to check if it is real or fake.
 
-## Project Structure
-
-```
-├── data/                   # Dataset directory
-├── models/                 # Trained models directory
-├── app.py                  # Streamlit web application
-├── train.py                # Model training script
-├── Fake News Detection.py  # Text preprocessing functions
-├── requirements.txt        # Dependencies
-├── README.md               # Project documentation
-```
 
 ## Future Enhancements
 
