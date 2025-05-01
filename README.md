@@ -51,19 +51,14 @@ To run the project locally, follow these steps:
 
 ## Usage
 
-1. Train the model:
 
-   ```sh
-   python train.py
-   ```
-
-2. Run the Streamlit web app:
+1. Run the Streamlit web app:
 
    ```sh
    streamlit run app.py
    ```
 
-3. Enter a news article in the input field to check if it is real or fake.
+2. Enter a news article in the input field to check if it is real or fake.
 
 
 ## Future Enhancements
@@ -77,3 +72,6 @@ To run the project locally, follow these steps:
 - Collect and use real-time news data for continuous model updates
 - Implement a feedback mechanism for users to improve model performance
 
+## User Interface
+
+![image alt](https://github.com/SathishB-1/Fake-News-Detection/blob/cf9f4c61529f58c41343bd9a79c3a943977dc611/UI.....png)
